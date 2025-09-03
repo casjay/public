@@ -1,3 +1,196 @@
 {
-	"data": "Coming soon"
+  "personalInfo": {
+    "name": "Jason Hempstead",
+    "location": "Moncks Corner, SC 29461",
+    "email": "casjay@yahoo.com",
+    "phone": "+1 315 520 8496",
+    "workAuthorization": "Authorized to work in the US for any employer"
+  },
+  "summary": {
+    "highlights": [
+      "Ability to work independently and in a team environment",
+      "20+ years of fast food and restaurant experience",
+      "Experience with the following operating systems Windows 7, 8 and 10, Mac OS, Linux",
+      "Strong ability to resolve issues remotely",
+      "Created and managed local networks",
+      "Experience with working on physical and virtual servers",
+      "Accustomed to working with and troubleshooting wide range of software",
+      "Knowledge of SQL databases",
+      "Ability to ensure computers comply with current Anti-virus software and updates",
+      "Work with Active Directory on maintaining user access",
+      "Attention to detail on documentation",
+      "Experience managing firewalls",
+      "Knowledge on POS equipment and sales process"
+    ]
+  },
+  "workExperience": [
+    {
+      "title": "Owner and Developer of Casjay Developments",
+      "company": "Casjay Developments",
+      "location": "New York, NY",
+      "startDate": "January 1999",
+      "endDate": "Present",
+      "current": true,
+      "responsibilities": [
+        "Developed websites multiple websites including https://casjay.coffee",
+        "Developments of multiple projects: https://github.com/casjay",
+        "Provided tech support ranging from hardware to networking issues"
+      ]
+    },
+    {
+      "title": "Temporary Laborer",
+      "company": "Best Staffing Solutions",
+      "location": "Johnstown, NY",
+      "startDate": "June 2018",
+      "endDate": "November 2018",
+      "responsibilities": [
+        "Worked in a team to build pallets for multiple businesses",
+        "Minimal supervision in a high-risk setting"
+      ]
+    },
+    {
+      "title": "Crew Member and Supervisor",
+      "company": "McDonald's",
+      "location": "Amsterdam, NY",
+      "startDate": "February 2016",
+      "endDate": "June 2018",
+      "responsibilities": [
+        "Utilized excellent customer service skills to ensure an accurate and pleasant checkout experience",
+        "Partnered with other crew members to ensure all daily tasks were completed and accurate"
+      ]
+    },
+    {
+      "title": "Crew Member",
+      "company": "Hot Dog Charlie's",
+      "location": "Cohoes, NY",
+      "startDate": "October 2013",
+      "endDate": "February 2016",
+      "responsibilities": [
+        "Orders",
+        "Cashier"
+      ]
+    },
+    {
+      "title": "Partner",
+      "company": "Stewart's Shops",
+      "location": "Clinton, NY",
+      "startDate": "June 2012",
+      "endDate": "May 2013",
+      "responsibilities": [
+        "Cashier",
+        "Stock",
+        "Orders"
+      ]
+    },
+    {
+      "title": "Crew Member and Shift Leader",
+      "company": "McDonald's",
+      "location": "New Hartford, NY",
+      "startDate": "February 2007",
+      "endDate": "February 2011",
+      "responsibilities": [
+        "Orders",
+        "Cashier",
+        "Grill",
+        "Cleaning",
+        "Scheduling",
+        "Deposits",
+        "Filtering fryers"
+      ]
+    },
+    {
+      "title": "Prep Cook/Cook/Dishwasher",
+      "company": "Nolas",
+      "location": "Clinton, NY",
+      "startDate": "April 2006",
+      "endDate": "September 2009",
+      "responsibilities": [
+        "Lunch Cook",
+        "Dishwasher",
+        "Slicing meats"
+      ]
+    },
+    {
+      "title": "Crew Member",
+      "company": "McDonald's",
+      "location": "Clinton, NY",
+      "startDate": "February 2005",
+      "endDate": "February 2007",
+      "responsibilities": [
+        "Orders",
+        "Cashier",
+        "Grill",
+        "Cleaning",
+        "Scheduling",
+        "Deposits",
+        "Filtering fryers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "GED",
+      "institution": "Educational Opportunity Center | HVCC",
+      "location": "Troy, NY",
+      "startDate": "September 2001",
+      "endDate": "March 2002"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Windows 7, 8 and 10",
+      "Mac OS",
+      "Linux",
+      "SQL databases",
+      "Active Directory",
+      "Firewall management",
+      "Network management",
+      "Physical and virtual servers",
+      "Remote troubleshooting",
+      "Anti-virus software",
+      "POS equipment",
+      "Automation scripting"
+    ],
+    "soft": [
+      "Desire to learn new skills and a quick study",
+      "Effective communication and interpersonal skills",
+      "Ability to prioritize tasks during busy times",
+      "Strong ability to adapt to issues that may arise",
+      "Team collaboration",
+      "Independent work capability",
+      "Customer service",
+      "Attention to detail"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Building trades",
+      "issueDate": "March 2002",
+      "current": true,
+      "description": "Completed 250 hour building trades course"
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Retail customer service",
+      "level": "Proficient",
+      "date": "April 2022",
+      "description": "Responding to customer situations in a retail setting",
+      "provider": "Indeed Assessments"
+    },
+    {
+      "name": "Analyzing data",
+      "level": "Proficient",
+      "date": "April 2022",
+      "description": "Interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data",
+      "provider": "Indeed Assessments"
+    }
+  ],
+  "projects": {
+    "websites": [
+      "https://casjay.coffee"
+    ],
+    "github": "https://github.com/casjay"
+  },
+  "lastUpdated": "2023-11-06"
 }
